@@ -1,6 +1,4 @@
 # Sachith
-BIO
-
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://mizzcode.io)
 # 💫 About Me:
 [![WASI-TECH](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=0004FF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Sachith+Gunarathna;I+am+a+Full-Stack+Developer;I+am+from+Sri+Lanka-is+Alawwa;Nice+to+Meet+You)](https://github.com/sachith2007)
